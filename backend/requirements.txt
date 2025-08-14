@@ -1,0 +1,6 @@
+flask
+SpeechRecognition
+gTTS
+transformers
+torch
+indic-transliteration
